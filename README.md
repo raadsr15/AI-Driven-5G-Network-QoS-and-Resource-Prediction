@@ -61,3 +61,7 @@ The dataset utilized in this project is the [5G Quality of Service dataset](http
 2. Install Dependencies
     ```bash
     pip install -r requirements.txt
+
+3. Launch the notebook
+    ```bash
+    jupyter notebook
