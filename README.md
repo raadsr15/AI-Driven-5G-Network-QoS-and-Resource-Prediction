@@ -55,7 +55,7 @@ The dataset utilized in this project is the [5G Quality of Service dataset](http
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/AI-Driven-5G-Network-QoS-and-Resource-Prediction.git
+   git clone https://github.com/raadsr15/AI-Driven-5G-Network-QoS-and-Resource-Prediction.git
    cd AI-Driven-5G-Network-QoS-and-Resource-Prediction
 
 2. Install Dependencies
