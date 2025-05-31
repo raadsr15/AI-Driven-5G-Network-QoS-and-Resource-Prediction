@@ -59,5 +59,5 @@ The dataset utilized in this project is the [5G Quality of Service dataset](http
    cd AI-Driven-5G-Network-QoS-and-Resource-Prediction
 
 2. Install Dependencies
-    '''bash
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
